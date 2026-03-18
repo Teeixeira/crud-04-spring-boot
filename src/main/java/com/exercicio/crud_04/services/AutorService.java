@@ -1,8 +1,8 @@
-package com.exercicio.crud_02.services;
+package com.exercicio.crud_04.services;
 
 
-import com.exercicio.crud_02.models.AutorModel;
-import com.exercicio.crud_02.repositories.AutorRepository;
+import com.exercicio.crud_04.models.AutorModel;
+import com.exercicio.crud_04.repositories.AutorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

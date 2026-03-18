@@ -1,4 +1,4 @@
-package com.exercicio.crud_02.models;
+package com.exercicio.crud_04.models;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
